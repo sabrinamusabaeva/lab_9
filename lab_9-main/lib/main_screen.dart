@@ -63,7 +63,7 @@ class _MainScreenState extends State<MainScreen> {
 
                   Text(
                       'Email: ${user.email ?? ""}'
-                      style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                      style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
                   ),
                 ]
             )
